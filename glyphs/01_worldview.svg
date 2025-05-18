@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="black" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Eye outline -->
+  <path d="M2 12C5 5 19 5 22 12C19 19 5 19 2 12Z"/>
+  <!-- Iris -->
+  <circle cx="12" cy="12" r="3"/>
+</svg>

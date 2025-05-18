@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" stroke="black" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Scepter based on Was symbol -->
+  <path d="M12 2 L12 16"/>
+  <path d="M9 5 L15 5"/>
+  <path d="M9 13 L15 13"/>
+  <!-- Forked base -->
+  <path d="M10 22 L12 16 L14 22"/>
+  <!-- Stylized animal head -->
+  <path d="M12 2 Q14 3 14 5 Q14 7 12 8 Q10 7 10 5 Q10 3 12 2Z"/>
+</svg>
